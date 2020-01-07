@@ -1,0 +1,2 @@
+include ':app', ':zego-express-sdk'
+rootProject.name='ZegoExpressEngine'
